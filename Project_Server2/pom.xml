@@ -55,7 +55,7 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20210307</version> <!-- Version tìm bừa -->
+            <version>20231013</version> <!-- Version tìm bừa -->
         </dependency>
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
